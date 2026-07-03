@@ -1,0 +1,42 @@
+{
+  "locations": [
+    "Remote Europe",
+    "Remote Bulgaria",
+    "Remote/Hybrid/Office Plovdiv"
+  ],
+  "workModels": [
+    "Remote",
+    "Hybrid Plovdiv",
+    "Office Plovdiv"
+  ],
+  "roles": [
+    "Product Designer",
+    "UI/UX Designer",
+    "UI Designer",
+    "UX Designer",
+    "Web Designer",
+    "Design Systems Designer"
+  ],
+  "seniority": [
+    "Middle",
+    "Senior"
+  ],
+  "employmentTypes": [
+    "Full-time employee",
+    "Long-term full-time B2B/contract"
+  ],
+  "salary": {
+    "preferredNetEurMonthly": 1200,
+    "acceptableNetEurMonthly": 900,
+    "maximum": null
+  },
+  "languages": [
+    "English B2",
+    "Bulgarian fluent",
+    "Russian fluent",
+    "Ukrainian fluent"
+  ],
+  "workAuthorization": "EU citizen (Bulgaria)",
+  "relocation": false,
+  "excludedIndustries": []
+}
